@@ -7,7 +7,7 @@ global.owner = ['6281236167286']
 global.premium = ['6281236167286']
 global.ownername = '4k sanzz'
 global.packname = 'YT 4K SANZZ??'
-global.author = 'SUBSCRIBE YTGUA SEKARANG 👿'
+global.author = 'SUBSCRIBE YT GUA SEKARANG 👿'
 global.sessionName = 'session'
 global.linkgrupss = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -25,7 +25,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 1
 }
 global.thumb = fs.readFileSync('./lib/thum.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
